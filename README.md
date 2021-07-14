@@ -1,6 +1,6 @@
-# todo_app
+# Todo_app
 
-A new Flutter project.
+This is only the UI design. The final version is ThingsTodo.
 
 ## Getting Started
 
